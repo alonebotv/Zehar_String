@@ -1,28 +1,28 @@
 ━━━━━━━━━━━━━━━━━━━━
-
+✨Ꮓᴇʜᴀʀ🤯
 <h2 align="center">
-    ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
+    ──「 Sᴛʀɪɴɢ Ꮓᴇʜᴀʀ Bᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
+  <img src="https://te.legra.ph/file/08920d6e70c73d252a323.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/String_Father_Bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/zehar_World)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/mrtosumemon/String/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/String?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/mrtosumemon/String/network/members"> <img src="https://img.shields.io/github/forks/mrtosumemon/String?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/mrtosumemon/String/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/mrtosumemon/String/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/mrtosumemon/String?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/alonebotv/Zehar_String/edit/master/.github/README.md"><img src="" alt="Stars"/></a>
+<a href=""> <img src=""/></a>
+<a href=""> <img src="" alt="License"/></a>
+<a href="https://www.python.org/"> <img src="" alt="Python"/></a>
+<a href="https://github.com/mrtosumemon/String/commits/AnonymousX1025"> <img src=""/></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
+  <img src="https://te.legra.ph/file/08920d6e70c73d252a323.jpg">
 </p>
 
 <p align="center">
@@ -33,14 +33,14 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrtosumemon/String"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/alonebotv/Zehar_String/edit/master/.github/README.md"> <img src="" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/mrtosumemon/String/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/alonebotv/Zehar_String/edit/master/.github/README.md)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install required packages by :
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/fa5b692e4ddb87559db17.jpg">
+  <img src="">
 </p>
 
 </details>
@@ -76,10 +76,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Incricible"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+3OOgBzI0KHg5MDU9"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Incricible_Network"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a "><img src=""></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -88,7 +88,7 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ɢᴏᴅғᴀᴛʜᴇʀ](https://github.com/mrtosumemon)</b>
+- <b>[zehar](https://github.com/mrtosumemon)</b>
 - <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
 - <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
 
